@@ -206,4 +206,4 @@ async def weather(ctx, city="", country = "", extra = ""):
                     await reaction.remove(bot)
                     await ctx.send(embed = embedd)    
         
-client.run("ODMxMjU1NzExNDg4OTMzOTY4.YHSlNQ.9LhkoLLEVGjDNhmmDoeMcprAN_8")
+client.run("token")
