@@ -11,9 +11,10 @@ Use ~weather (location) to land on the navigation page!
 
 Click ⏰ for hourly forecast and 📆 for daily!
 
-**Hourly Forecast**
+**Daily Forecast**
 
 ![alt-text](Interface2.png)
 
-**Daily Forecast**
+**Hourly Forecast**
 
+![alt-text](Interface3.png)
