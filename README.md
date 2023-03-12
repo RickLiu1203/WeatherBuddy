@@ -5,10 +5,15 @@ Through this bot, users can find current weather data as well as various forecas
 
 Use ~weather (location) to land on the navigation page!
 
-Navigation Page
+**Navigation Page**
+
 ![alt-text](Interface1.png)
 
-Click ⏰ for hourly forecast and 📆 for weekly!
+Click ⏰ for hourly forecast and 📆 for daily!
 
-Hourly Forecast
+**Hourly Forecast**
+
 ![alt-text](Interface2.png)
+
+**Daily Forecast**
+
